@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @allaboutai-blog
+- 👀 Howdy, I’m Rajani. I’m a web developer living in india.
+-  I Write Blogs On Artificial Intellignce .
+-   Whether you're a beginner curious about the basics,
+-   a professional seeking to enhance your expertise through courses and certifications,
+-   or an enthusiast eager to stay abreast with the latest news and insights, AllAboutAI is your trusted guide.
+-   https://allbboutai.blog
